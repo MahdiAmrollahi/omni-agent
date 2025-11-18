@@ -103,7 +103,7 @@ Then enter your query. The agent will automatically select and use the appropria
 ```
 Enter your query: Calculate 25 percent of 200
 Enter your query: Search for "Python" in the docs folder
-Enter your query: SELECT * FROM users WHERE age > 18
+Enter your query: Show me all users older than 18
 Enter your query: Scrape content from https://example.com
 Enter your query: I want to build a website
 ```
